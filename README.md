@@ -1,0 +1,2 @@
+# DoubleEntryAccounting
+複式簿記アプリケーション習作
